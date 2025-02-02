@@ -14,10 +14,6 @@
 
 }
 
-:root {
-    --background: linear-gradient(#7e4eb6, #462b65, #0b070f);
-}
-
 /*------------- Menu ------------- */
 
 body {
@@ -1237,7 +1233,7 @@ footer {
         width: 20rem;
         position: absolute;
         top: 40rem;
-        left:-5rem;
+        left: -5rem;
         z-index: -1;
     }
 
